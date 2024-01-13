@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1705147320633,
+      "tag": "0000_wide_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1705147594468,
+      "tag": "0001_salty_moondragon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1705147861087,
+      "tag": "0002_tired_mandarin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1705149510589,
+      "tag": "0003_large_shockwave",
+      "breakpoints": true
+    }
+  ]
+}
